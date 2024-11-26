@@ -1,0 +1,330 @@
+.container{
+    display:flex;
+    height:60px;
+    width:1500px;
+    background-color:#2e3192;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.shopping{
+    display:flex;
+    align-items:center;
+}
+#india{
+    width:40px;
+    height:40px;
+    background-color:#2e3192;
+}
+#mart{
+    font-weight:600;
+    font-size:28px;
+    color:white;
+    Line-height:normal;
+}
+.sell{
+    display:flex;
+    margin-left:950px;
+    gap:25px;
+    
+}
+#building{
+ /*   border:2px solid yellow; */
+    
+}
+#help{
+/* border:2px solid green;  */
+color:#c4cce7;
+font-size:18px;
+height:1px;
+margin-left:20px;
+margin-top:5px;
+}
+#local{
+ /*   border:2px solid green; */
+color:#c4cce7;
+font-size:18px;
+height:1px;
+margin-left:2px;
+margin-top:5px;
+}
+#surgical{
+ /*   border:2px solid green;  */
+    color:#c4cce7;
+    font-size:18px;
+    height:1px;
+    margin-left:5px;
+    margin-top:5px;
+}
+#basmati{
+  /*  border:2px solid green; */
+    color:#c4cce7;
+    font-size:18px;
+    height:1px;
+    margin-left:20px;
+    margin-top:5px;
+}
+#generic{
+  /*  border:2px solid green; */
+    color:#c4cce7;
+    font-size:18px;
+    height:1px;
+    margin-left:10px;
+    margin-top:5px;
+}
+#message{
+ /* border:2px solid orange; */
+font-size:12px;
+font-weight:400;
+color:
+white;
+Line-height:18px;
+height:1px;
+}
+.user{
+    display:flex;
+    align-items:center;
+}
+#arrow{
+    color:#c4cce7;
+    margin-top:10px;
+    margin-left:1px;
+}
+.search{
+    background-image:url(https://hm.imimg.com/imhome_gifs/bg-img.jpg);
+    width:1500px;
+    height:180px;
+}
+.product{
+    display:block;
+    padding-top:30px;
+}
+.vitamin{
+    display:flex;
+    margin-left:470px;
+}
+#view{
+font-weight:700;
+font-size:22px;
+Line-height:normal;
+color:rgb(249,249,249);
+}
+#panel{
+font-weight:400;
+font-size:22px;
+Line-height:normal;
+color:rgb(249,249,249);
+}
+.verified{
+    display:flex;
+    margin-left:350px;
+}
+#near{
+    display:flex;
+    align-items:center;
+    background-color:
+    #ececec;
+    width:180px;
+    text-decoration:none;
+}
+#location{
+    margin-left:18px;
+    color:#909090;
+}
+#port{
+    margin-left:60px;
+    color:#909090;
+}
+#service{
+    width:500px;
+    padding-left:9px;
+}
+.machine{
+    border:1px solid yellow;
+    width:140px;
+    border:5px;
+    background-color:#02746b;
+    border-radius:8px;
+}
+#crop{
+    display:flex;
+    text-decoration:none;
+}
+#fresh{
+margin-top:18px;
+font-size:20px;
+color:#909090;
+margin-left:20px;
+}
+#wheat{
+ font-family:arial;
+  font-weight:700;
+  font-size:19px;
+  line-height:normal;
+  color:white;
+  margin-left:20px;
+}
+.pharma{
+    display:flex;
+    gap:50px;
+ /*   border:1px solid red;  */ 
+    width:1500px;
+}
+#drug{
+    justify-items:center;
+    display:flex;
+    align-items:center;
+    margin-left:30px;
+    gap:15px;
+    text-decoration:none;
+}
+#door{
+    font-size:30px;
+    color:#00a493;
+}
+#flexible{
+    font-weight:400;
+    font-size:18px;
+    Line-height:normal;
+    color:#404132;
+}
+.brick{
+    display:flex;
+    align-items:center;
+    text-decoration:none;
+}
+#shirt{
+    margin-left:50px;
+    color:#404132;
+}
+.epoxy{
+    background-color:#f3f3f3;
+  /*  border:1px solid red; */
+    width:1500px;
+    height:1600px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.mercury{
+    width:1150px;
+    height:1000px;
+  /*  border:2px solid yellow; */
+    margin-left:180px;
+    background-color:#ffffff;
+    margin-top:7px;
+}
+.cotton{
+    display:flex;
+    align-items:center;
+}
+#projector{
+    font-weight:700;
+    font-size:25px;
+    Line-height:normal;
+    color:rgb(51,51,51);
+    margin-left:20px;
+}
+#cutting{
+    text-decoration:none;
+    margin-top:6px;
+    margin-left:8px;
+    font-weight:400;
+    font-size:14px;
+    Line-height:normal;
+    color:rgb(46,53,143);
+}
+.drone{
+    display:flex;
+}
+.medicare{
+  /*  border:1px solid purple; */
+    width:270px;
+    height:450px;
+    border-radius:10px;
+    margin-left:10px;
+    display:flex;
+flex-direction:column;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+#electro{
+    height:160px;
+    width:160px;
+    margin-left:45px;
+}
+#feedback{
+    text-decoration:none;
+    font-weight:700;
+    font-size:15px;
+    Line-height:normal;
+    color:rgb(0,0,0);
+    margin-left:10px;
+}
+#customer{
+    text-decoration:none;
+    font-weight:500;
+    font-size:13px;
+    Line-height:normal;
+    margin-left:10px;
+    color:rgb(0,0,0);
+}
+#ship{
+    text-decoration:none;
+    font-weight:400;
+    font-size:13px;
+    Line-height:14px;
+    color:rgb(118,118,118);
+    margin-left:10px;
+}
+#invoice{
+    display:flex;
+    text-decoration:none;
+    align-items:center;
+    font-weight:700;
+    font-size:18px;
+    Line-height:16px;
+    color:rgb(0,0,0);
+    margin-left:10px;
+}
+#stripe{
+    font-weight:400;
+    font-size:15px;
+    Line-height:16px;
+    color:rgb(118,118,118);
+}
+#section{
+    display:flex;
+    align-items:center;
+    text-decoration:none;
+    margin-left:10px;
+  /*  border:1px solid blue; */
+    height:35px;
+    width:90%;
+    margin-left:11px;
+    border-radius:5px;
+    justify-content:center;
+    background-color:#f3f3f3;
+}
+#clay{
+    font-weight:700;
+    font-size:16px;
+    Line-height:30px;
+    color:rgb(46,49,146);
+}
+#contact{
+  /*  border:1px solid green; */
+    height:35px;
+    width:90%;
+    border-radius:5px;
+    margin-left:10px;
+    text-decoration:none;
+    background-color:#2e3192;
+
+}
+#bakery{
+    margin-left:60px;
+    color:white;
+    width:120px;
+  /*  border:2px solid red; */
+    justify-content:center;
+    font-weight:700;
+    font-size:16px;
+    Line-height:normal;
+     
+}
